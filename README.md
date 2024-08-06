@@ -6,16 +6,17 @@ https://opensauced.pizza/learn/becoming-a-maintainer
 
 ## New contributors
 
-- https://oss.fyi/sZNF90k
+- [supabase](https://oss.fyi/sZNF90k)
+- [vercel/next](https://oss.fyi/SwYVOsO)
 
 ## Engagement
 
--  https://oss.fyi/xVSoKm8
+-  [pgvector](https://oss.fyi/xVSoKm8)
 
 ## Rate of Self Selction
 
-- https://oss.fyi/NSnggzq
+- [mircosoft/typescript](https://oss.fyi/NSnggzq)
 
 ## Contributor Confidence
 
-- https://oss.fyi/rqC9RLn
+- [interledger/raifiki](https://oss.fyi/rqC9RLn)
