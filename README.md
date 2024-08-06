@@ -37,7 +37,7 @@ Contributor Confidence is a metric that helps us understand the likelihood of so
 
 ## Other links
 
-- [What defines success in open source?](What Defines Open Source Success?)
+- [What defines success in open source?](https://opensauced.pizza/blog/open-source-success)
 - [Cultivating Open Source community](https://opensauced.pizza/blog/open-source-community)
 - [Lottery Factor Explained](https://opensauced.pizza/blog/Understanding-the-Lottery-Factor)
 - [YOLO coding](https://opensauced.pizza/blog/yolo-coder)
