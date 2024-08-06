@@ -19,7 +19,13 @@ Imagine a system where each contribution isn't just counted, but weighted based 
 
 ## Rate of Self Selction
 
+The ideal scenario for open source projects is a healthy mix of consistent core contributors and a steady influx of new contributors. This balance ensures both stability and fresh perspectives, maximizing the compound interest effect of collaborative innovation.
+
+Next.js, for example, has a healthy balance of internal and external contributors, with a consistent flow of new contributors joining the project. This can also lead to a more sustainable project in the long run, as it's not dependent on a single source of contributions and has a low lottery factor.
+
 - [mircosoft/typescript](https://oss.fyi/NSnggzq)
+- [vercel/next](https://oss.fyi/SwYVOsO)
+- [pgvector](https://oss.fyi/xVSoKm8)
 
 ## Contributor Confidence
 
