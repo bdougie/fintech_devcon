@@ -2,6 +2,7 @@
 This is a repo to walk through workshop content at fintech devcon. For a better understanding on what is takes to set up a project for success, check out our course on "Becoming a Maintainer" 
 https://opensauced.pizza/learn/becoming-a-maintainer
 
+Workspace: https://oss.fyi/7EuKvt0
 ## New contributors
 The ideal scenario for open source projects is a healthy mix of consistent core contributors and a steady influx of new contributors. This balance ensures both stability and fresh perspectives, maximizing the compound interest effect of collaborative innovation.
 
@@ -9,6 +10,7 @@ Next.js, for example, has a healthy balance of internal and external contributor
 
 - [supabase](https://oss.fyi/sZNF90k)
 - [vercel/next](https://oss.fyi/SwYVOsO)
+- [withastro/astro](https://app.opensauced.pizza/s/withastro/astro?hideBots=false)
 
 ## Engagement
 As open source ecosystems grow, so does the need to understand and measure the impact of individual contributions track the value of a contributor's contributions.
